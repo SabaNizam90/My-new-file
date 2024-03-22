@@ -1,2 +1,3 @@
 let message = ("hi");
-console.log(message);
+let myname = "Saba";
+console.log(message +  ' ' + myname);
